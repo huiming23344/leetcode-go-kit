@@ -1,4 +1,4 @@
-# go-leetcode-kit
+# leetcode-go-kit
 ## efficiency kit
 such as fast comparison for []int types
 ## test data generation 
